@@ -1,0 +1,19 @@
+
+.organization > *{
+  width: 12%;
+  padding-bottom: 180px;
+}
+
+.section3{
+  background-color: #0c1015;
+  padding-bottom: 30px;
+}
+
+.section5{
+  background-color: #0d1117;
+  padding: 10px 0 40px 0;
+}
+
+.footer a:hover{
+  color: #4299E1;
+}
